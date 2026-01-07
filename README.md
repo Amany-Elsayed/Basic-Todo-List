@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Amany-Elsayed/Basic-Todo-List>
    cd basic-todo-list
    ```
 
@@ -217,6 +217,8 @@ Potential features to add:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
+
+Amany Elsayed
 
 Created as a learning project to demonstrate MEAN stack development.
 
